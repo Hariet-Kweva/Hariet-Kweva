@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hariet-Kweva
 - 👀 I’m interested in programming and networking
-- 🌱 I’m currently learning pytho
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ISP 
 - 📫 How to reach me 0790402153,harietwairimu0@gmail.com
 
